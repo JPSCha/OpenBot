@@ -1,5 +1,21 @@
+<p align="center">
+     <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+
+</p>
+
 # OpenBot
  A project carried out by friends to create an open source discord bot with moderation and music player functions.
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height=50 width=50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=50 width=50 />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" height=50 width=50 />
+</p>
+
+
+
+
+
+
 
 |    OpenBot    | v1.0 |
 |----------------|------|
