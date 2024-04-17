@@ -11,9 +11,20 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.3.0",
+    "colors": "^1.4.0",
     "discord.js": "^14.14.1",
     "dotenv": "^16.4.5",
     "nodemon": "^3.1.0",
+    "ts-lib": "^0.0.5",
     "typescript": "^5.4.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JPSCha/OpenBot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/JPSCha/OpenBot/issues"
+  },
+  "homepage": "https://github.com/JPSCha/OpenBot#readme"
 }
