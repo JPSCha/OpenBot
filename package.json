@@ -2,12 +2,13 @@
   "name": "southbot",
   "version": "1.0.0",
   "description": "South bot is Bot for discord amem",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "start": "yarn tsc && node build/app.js",
-    "build": "yarn tsc "
+    "dev": "ts-node src/index.ts",
+    "start": "tsc src/index.ts && node .",
+    "build": "tsc src/index.ts"
   },
-  "author": "Guimaraes",
+  "author": "Guimaraes, JPSCha",
   "license": "MIT",
   "dependencies": {
     "chalk": "^5.3.0",
@@ -26,5 +27,6 @@
   "bugs": {
     "url": "https://github.com/JPSCha/OpenBot/issues"
   },
-  "homepage": "https://github.com/JPSCha/OpenBot#readme"
+  "homepage": "https://github.com/JPSCha/OpenBot#readme",
+  "devDependencies": {}
 }
